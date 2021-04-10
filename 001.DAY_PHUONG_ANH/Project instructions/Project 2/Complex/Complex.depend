@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615931477 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\complex\complex.cpp
+	"Complex.hpp"
+
+1615931333 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\complex\complex.hpp
+	<iostream>
+	"SoccerTeam.hpp"
+
+1615929333 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\complex\main.cpp
+	"Complex.hpp"
+	<iostream>
+
+1615587581 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\complex\soccerteam.hpp
+	<string>
+	<iostream>
+
+1614985434 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\complex\soccerteam.cpp
+	"SoccerTeam.hpp"
+	<iostream>
+

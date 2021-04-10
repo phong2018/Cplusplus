@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1561768846 source:d:\2018\025.day-them\009.vidu\25.4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"AVLtree.h"
+	"studentList.h"
+
+1561741022 d:\2018\025.day-them\009.vidu\25.4\student.h
+	<iostream>
+
+1561768830 d:\2018\025.day-them\009.vidu\25.4\studentlist.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"student.h"
+
+1561769599 d:\2018\025.day-them\009.vidu\25.4\avltree.h
+	<iostream>
+	<string>
+
+1561715555 d:\2018\025.day-them\009.vidu\25.4\studentfn.h
+	<iostream>
+	"student.h"
+

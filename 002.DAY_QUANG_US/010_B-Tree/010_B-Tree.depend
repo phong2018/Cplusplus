@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561642203 source:d:\2018\025.day-them\009.vidu\010_b-tree\main.cpp
+	<iostream>
+	"bTree.h"
+
+1561644980 d:\2018\025.day-them\009.vidu\010_b-tree\btree.h
+	<utility>
+	<stdlib.h>
+	<utility>
+	<stdio.h>
+

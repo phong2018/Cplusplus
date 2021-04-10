@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561598985 source:d:\2018\025.day-them\009.vidu\002.dynamic_array_of_integers\main.cpp
+	<iostream>
+	<string>
+	"ArrayList.h"
+
+1561598998 d:\2018\025.day-them\009.vidu\002.dynamic_array_of_integers\arraylist.h
+
+1561599010 source:d:\2018\025.day-them\009.vidu\002.dynamic_array_of_integers\arraylist.cpp
+	<iostream>
+	<string>
+	"ArrayList.h"
+

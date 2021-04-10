@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1561600606 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\customer_type.cpp
+	"customer_type.h"
+
+1561600598 d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\customer_type.h
+
+1561600641 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\queue_type.cpp
+
+1561600690 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\server_list_type.cpp
+	"server_list_type.h"
+
+1561600696 d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\server_list_type.h
+	<iostream>
+	"customer_type.h"
+	"server_type.h"
+
+1561600773 d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\server_type.h
+	<string>
+	"customer_type.h"
+
+1561600742 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\server_type.cpp
+	"server_type.h"
+
+1561600808 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\update_waiting_queue_type.cpp
+	"waiting_customer_queue_type.h"
+
+1561600818 d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\waiting_customer_queue_type.h
+	"customer_type.h"
+	"queue_type.h"
+
+1561600652 d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\queue_type.h
+	<iostream>
+	<cassert>
+	"queueADT.h"
+
+1561600681 d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\queueadt.h
+
+1561600533 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\waiting_customer_queue_type.cpp
+
+1561601193 source:d:\2018\025.day-them\009.vidu\007_queue_waiting_customer_queue_simulation\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"customer_type.h"
+	"server_list_type.h"
+	"waiting_customer_queue_type.h"
+

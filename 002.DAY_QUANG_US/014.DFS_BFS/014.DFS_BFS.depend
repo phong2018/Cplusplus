@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1561851976 source:d:\2018\025.day-them\009.vidu\014.dfs_bfs\main.cpp
+	"graph.h"
+
+1561852209 d:\2018\025.day-them\009.vidu\014.dfs_bfs\graph.h
+	"linkedList.h"
+	"queue.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+
+1561852201 d:\2018\025.day-them\009.vidu\014.dfs_bfs\linkedlist.h
+	<iostream>
+
+1561852218 d:\2018\025.day-them\009.vidu\014.dfs_bfs\queue.h
+	<iostream>
+	<cassert>
+

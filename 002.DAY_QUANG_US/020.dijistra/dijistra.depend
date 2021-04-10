@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561347149 source:d:\2018\025.day-them\009.vidu\dijistra\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

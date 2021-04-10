@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1615240955 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\main.cpp
+	"SoccerTeam.hpp"
+	"SoccerLeague.hpp"
+	"shape.h"
+	<fstream>
+	<iostream>
+	<fstream>
+
+1614985434 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\soccerteam.cpp
+	"SoccerTeam.hpp"
+	<iostream>
+
+1615240680 d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\soccerteam.hpp
+	<string>
+	<iostream>
+
+1615241651 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\soccerleague.cpp
+	"SoccerLeague.hpp"
+	<fstream>
+
+1615241656 d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\soccerleague.hpp
+	<string>
+	<iostream>
+	<fstream>
+
+1615241054 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\shape.cpp
+	"shape.h"
+
+1615241047 d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\project2\shape.h
+	<iostream>
+
+1615444405 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\main.cpp
+	"SoccerLeague.hpp"
+	"SoccerTeam.hpp"
+	<fstream>
+	<iostream>
+
+1615240680 d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\soccerteam.hpp
+	<string>
+	<iostream>
+
+1615445046 d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\soccerleague.hpp
+	<string>
+	<iostream>
+	<fstream>
+	"SoccerTeam.hpp"
+
+1615241047 d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\shape.h
+	<iostream>
+
+1615241054 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\shape.cpp
+	"shape.h"
+
+1615445025 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\soccerleague.cpp
+	"SoccerLeague.hpp"
+	"SoccerTeam.hpp"
+	<fstream>
+
+1614985434 source:d:\2018\025.day-them\026.day phuong anh c++\project instructions\project 2\project2\soccerteam.cpp
+	"SoccerTeam.hpp"
+	<iostream>
+
+1615948723 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\project2\main.cpp
+	"SoccerLeague.hpp"
+	"SoccerTeam.hpp"
+	<fstream>
+	<iostream>
+
+1616123435 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\project2\soccerleague.hpp
+	<string>
+	<iostream>
+	<fstream>
+	"SoccerTeam.hpp"
+
+1614985431 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\project2\soccerteam.hpp
+	<string>
+	<iostream>
+
+1616123408 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\project2\soccerleague.cpp
+	"SoccerLeague.hpp"
+	"SoccerTeam.hpp"
+	<fstream>
+	<string>
+	<Algorithm>
+
+1614985434 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 2\project2\soccerteam.cpp
+	"SoccerTeam.hpp"
+	<iostream>
+

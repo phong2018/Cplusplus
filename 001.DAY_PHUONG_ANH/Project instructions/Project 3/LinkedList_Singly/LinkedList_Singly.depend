@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1617830229 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\linkedlist_singly\main.cpp
+	<iostream>
+	"StringList.hpp"
+	"StringNode.hpp"
+
+1617917886 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\linkedlist_singly\stringlist.hpp
+	<iostream>
+	<string>
+	"StringNode.hpp"
+
+1617829836 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\linkedlist_singly\stringnode.hpp
+	<iostream>
+	<string>
+
+1617117554 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\linkedlist_singly\stringlist.cpp
+	"StringList.hpp"
+
+1617117554 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\linkedlist_singly\stringnode.cpp
+	"StringNode.hpp"
+

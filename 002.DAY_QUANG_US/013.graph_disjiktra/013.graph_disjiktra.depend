@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561857764 source:d:\2018\025.day-them\009.vidu\013.graph_disjiktra\main.cpp
+	"graph.h"
+	<iostream>
+
+1561857804 d:\2018\025.day-them\009.vidu\013.graph_disjiktra\graph.h
+	"linkedList.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+
+1561854319 d:\2018\025.day-them\009.vidu\013.graph_disjiktra\linkedlist.h
+	<iostream>
+

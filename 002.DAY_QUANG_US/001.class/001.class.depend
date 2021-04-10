@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1561598858 source:d:\2018\025.day-them\009.vidu\001.class\main.cpp
+	<iostream>
+	"shape.h"
+	"triangle.h"
+	"rectangle.h"
+
+1561598907 d:\2018\025.day-them\009.vidu\001.class\shape.h
+	<iostream>
+
+1561598892 d:\2018\025.day-them\009.vidu\001.class\triangle.h
+	"shape.h"
+
+1561598878 d:\2018\025.day-them\009.vidu\001.class\rectangle.h
+	"shape.h"
+
+1561598885 source:d:\2018\025.day-them\009.vidu\001.class\rectangle.cpp
+	"rectangle.h"
+
+1561598872 source:d:\2018\025.day-them\009.vidu\001.class\shape.cpp
+	"shape.h"
+
+1561598899 source:d:\2018\025.day-them\009.vidu\001.class\triangle.cpp
+	"triangle.h"
+

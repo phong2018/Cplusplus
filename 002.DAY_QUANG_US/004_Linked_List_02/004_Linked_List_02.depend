@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561599751 source:d:\2018\025.day-them\009.vidu\004_linked_list_02\playlistnode.cpp
+	<iostream>
+	"PlaylistNode.h"
+
+1561599757 d:\2018\025.day-them\009.vidu\004_linked_list_02\playlistnode.h
+	<string>
+

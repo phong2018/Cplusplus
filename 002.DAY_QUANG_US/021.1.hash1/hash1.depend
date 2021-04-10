@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561390118 source:d:\2018\025.day-them\009.vidu\hash1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

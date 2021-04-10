@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561628591 source:d:\2018\025.day-them\009.vidu\012_heap\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

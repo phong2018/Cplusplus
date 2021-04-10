@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560993058 source:d:\2018\025.day-them\009.vidu\cdoe\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+

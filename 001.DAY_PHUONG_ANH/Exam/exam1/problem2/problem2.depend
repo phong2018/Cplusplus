@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1616711459 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\exam\exam1\problem2\roster.cpp
+	"Roster.hpp"
+	<fstream>
+	<iostream>
+	<string>
+
+1616711443 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\exam\exam1\problem2\roster.hpp
+	<iostream>
+	<string>
+	<fstream>
+
+1616711034 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\exam\exam1\problem2\main.cpp
+	<iostream>
+	<fstream>
+	"Roster.hpp"
+

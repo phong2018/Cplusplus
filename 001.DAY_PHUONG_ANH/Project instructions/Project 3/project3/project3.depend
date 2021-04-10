@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1618095666 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\project3\main.cpp
+	"SoccerLeague.hpp"
+	"SoccerTeam.hpp"
+	<fstream>
+	<iostream>
+
+1618093750 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\project3\soccerleague.hpp
+	<iostream>
+	<fstream>
+	"SoccerTeam.hpp"
+
+1617849971 d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\project3\soccerteam.hpp
+	<string>
+	<iostream>
+
+1618095682 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\project3\soccerleague.cpp
+	"SoccerLeague.hpp"
+	<iostream>
+
+1614985434 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\project3\soccerteam.cpp
+	"SoccerTeam.hpp"
+	<iostream>
+
+1616029557 source:d:\2018\025.day-them\026.day phuong anh c++\001.day_phuong_anh\project instructions\project 3\project3\3_intersecting.cpp
+	"SoccerLeague.hpp"
+	"SoccerTeam.hpp"
+	<fstream>
+	<iostream>
+

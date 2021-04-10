@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561601767 source:d:\2018\025.day-them\009.vidu\008_hash_table_with_linear_probing\main.cpp
+	"hashT.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1561601345 d:\2018\025.day-them\009.vidu\008_hash_table_with_linear_probing\hasht.h
+	<string>
+	<iostream>
+	<sstream>
+

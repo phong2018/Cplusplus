@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561436598 source:d:\2018\025.day-them\009.vidu\sort\sort.cpp
+	<iostream>
+	<fstream>
+	<string>
+

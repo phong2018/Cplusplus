@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562425861 source:d:\2018\025.day-them\009.vidu\convirus\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+
